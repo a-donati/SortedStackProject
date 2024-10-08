@@ -26,7 +26,7 @@ SortedStackProject/
 To compile the program, follow these steps:
 
 1. Open your command line interface.
-2. Navigate to the `sortedstack` directory where the Java files are located, in this case within `donati4`.
+2. Navigate to the `sortedstack` directory where the Java files are located, in this case within `SortedStackProject`.
 3. Run the following command to compile all files:
 `javac *.java`
 
